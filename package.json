@@ -1,0 +1,25 @@
+{
+  "name": "saleapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "moment": "^2.22.2",
+    "onsenui": "^2.10.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-dynamic-swiper": "^1.1.2",
+    "react-onsenui": "^1.11.1",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "webpack-dev-server": "2.9.4"
+  },
+  "proxy": "http://sos.axelor.com:8081/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

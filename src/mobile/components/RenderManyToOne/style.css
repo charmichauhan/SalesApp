@@ -1,0 +1,30 @@
+.card-field-text, .card-field-title {
+    font-size: 11pt !important;
+    font-weight: 600;
+  }
+  
+  .card-field {
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    margin: 15px 0px;
+    line-height: 1.5em;
+  }
+
+  .many-to-one {
+    font-size: 10;
+    padding: 5px 7px;
+    margin: 5;
+    width: 100%;
+    height: 100%;
+    padding-left: 0px;
+    margin-left: 0px;
+    min-height: 15px;
+    padding-top: 0px;
+  }
+  
+  .field-input {
+    display: inline-block;
+    flex: 1;
+    /* width: 100%; */
+}

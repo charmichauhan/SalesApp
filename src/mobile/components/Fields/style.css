@@ -1,0 +1,12 @@
+.card-field-text, .card-field-title {
+    font-size: 11pt !important;
+    font-weight: 600;
+  }
+  
+  .card-field {
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    margin: 15px 0px;
+    line-height: 1.5em;
+  }

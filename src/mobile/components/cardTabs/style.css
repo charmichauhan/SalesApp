@@ -1,0 +1,28 @@
+.tabber-view {
+    border-bottom: 1px solid rgb(227,227,227);
+    display: flex;
+    min-height: 100px;
+    padding: 5px 5px;
+    font-size: 9pt
+  }
+  
+  .inactive-tabber-tab {
+    font-weight: 800;
+    color: rgb(175,175,175);
+  }
+  
+  .active-tabber-tab {
+    color : #000;
+    font-weight: 800;
+    border-bottom: 3px solid #7d3b9b;
+  }
+  
+  .tabber-item {
+    display: flex;
+    font-size: 10pt;
+    padding: 15px 15px 15px 5px;
+  }
+  
+  .tabber-title {
+    padding-bottom: 10px;
+  }
